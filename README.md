@@ -1,5 +1,5 @@
-# replit accounts with cool roles
-i was bored so i made up a list of replit accounts with the verified badge
+# replit accounts with cool badges
+i was bored so i made up a list of replit accounts with cool badges
 
 - Verified Partners
    - `Voucherify`
